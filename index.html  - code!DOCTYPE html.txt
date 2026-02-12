@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Myweb</title>
+</head>
+<body style="background-color: lightblue;" >
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">Myweb</h2>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="https://www.google.com">Google</a></li>
+                    <li><a href="https://www.youtube.com">Youtube</a></li>
+                    <li><a href="https://www.w3schools.com">W3schools</a></li>
+                    <li><a href="https://www.flipkart.com">Flipkart</a></li>
+                    <li><a href="https://www.instagram.com">Instagram</a></li>
+                </ul>
+            </div>
+           
+        </div>
+    </div>
